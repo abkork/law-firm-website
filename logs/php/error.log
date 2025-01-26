@@ -1,0 +1,328 @@
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 13:47:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[20-Dec-2024 21:48:41 UTC] PHP Warning:  PHP Request Startup: Input variables exceeded 4000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[20-Dec-2024 21:48:42 UTC] PHP Warning:  Undefined array key "column" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 16
+[20-Dec-2024 21:48:42 UTC] PHP Warning:  Undefined array key "url" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 17
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:12:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:15:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:16:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:33:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:34:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Dec-2024 21:47:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 21:23:29 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Undefined array key "id" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Dec-2024 22:45:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[30-Dec-2024 00:13:17 UTC] PHP Warning:  PHP Request Startup: Input variables exceeded 4000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[30-Dec-2024 00:13:18 UTC] PHP Warning:  Undefined array key "column" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 16
+[30-Dec-2024 00:13:18 UTC] PHP Warning:  Undefined array key "url" in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 17
+[01-Jan-2025 21:22:48 UTC] PHP Warning:  Undefined array key 0 in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\the-post-grid\app\Controllers\Api\GetPostsV1.php on line 310
+[01-Jan-2025 22:04:13 UTC] PHP Warning:  Undefined array key 0 in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\the-post-grid\app\Controllers\Api\GetPostsV1.php on line 310
+[01-Jan-2025 22:04:59 UTC] PHP Warning:  Undefined array key 0 in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\the-post-grid\app\Controllers\Api\GetPostsV1.php on line 310
+[01-Jan-2025 22:05:00 UTC] PHP Warning:  Undefined array key 0 in C:\Users\arifb\Local Sites\test-1\app\public\wp-content\plugins\the-post-grid\app\Controllers\Api\GetPostsV1.php on line 310
+[06-Jan-2025 13:41:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:19 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:26 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:27 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:27 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:28 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:29 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:32 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:38 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[06-Jan-2025 13:41:39 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Related_Posts_Loader::render_related_posts_title() cannot be called statically in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\arifb\Local Sites\test-1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\arifb\\...')
+#6 C:\Users\arifb\Local Sites\test-1\app\public\index.php(17): require('C:\\Users\\arifb\\...')
+#7 {main}
+  thrown in C:\Users\arifb\Local Sites\test-1\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[07-Jan-2025 17:42:32 UTC] action_scheduler_run_queue kancası için zamanlanmış görevin zamanı ayarlanırken sorun çıktı. Hata kodu: could_not_set, Hata iletisi: Zamanlanmış görev olay listesi kaydedilemedi., Veri: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[18-Jan-2025 21:27:17 UTC] PublishPress Authors: View is not readable: boxed
